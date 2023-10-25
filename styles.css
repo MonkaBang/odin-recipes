@@ -1,0 +1,44 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: royalblue;
+}
+
+.box {
+  border: solid;
+  margin: 5px 35px;
+  background-color: #FBF8BE;
+}
+
+h1 {
+  text-align: center;
+}
+
+.menu-title {
+  text-align: center;
+}
+
+li {
+  margin: 5px auto;
+}
+
+.sushi {
+  width: 100;
+}
+
+h2 {
+  text-align: center;
+}
+
+.description {
+  margin: auto 30px;
+}
+
+div > img {
+  height: auto;
+  width: 600px;
+}
+
+.picture {
+  text-align: center;
+}
+
